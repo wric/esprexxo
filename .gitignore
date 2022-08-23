@@ -1,0 +1,4 @@
+node_modules/
+
+# old code
+.old.js
